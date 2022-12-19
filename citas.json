@@ -1,0 +1,30 @@
+[
+ {
+  "nombre": "Firulete",
+  "edad": "3",
+  "tipo": "perro",
+  "color": "gris",
+  "sintomas": "colitis"
+ },
+ {
+  "nombre": "Millie",
+  "edad": "3",
+  "tipo": "gata",
+  "color": "blanca",
+  "sintomas": "gorda"
+ },
+ {
+  "nombre": "GODZILLA",
+  "edad": "2",
+  "tipo": "IGUANA",
+  "color": "VERDE",
+  "sintomas": "CIEGA"
+ },
+ {
+  "nombre": "jerry",
+  "edad": "1",
+  "tipo": "raton",
+  "color": "cafe",
+  "sintomas": "virus"
+ }
+]
